@@ -13,7 +13,8 @@ Stage de 6 mois au LRGP. Réunions mensuelles avec SNF water science et HTS BIO.
 - Préparation des milieux de culture 
 - Réalisation d'un plan d'expériences (8 points et triplicat du point central)
 - Préparation des échantillons pour le suivi de l'activité enzymatique 
-- Suivi de la croissance, de la pO2, etc. 
+- Suivi de la croissance, de la pO2, etc.
+- Préparation et suivi de culture en bioréacteur agité (pilote INFORS, Applikon)
 
 Travail en cours
 
